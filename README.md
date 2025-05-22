@@ -43,10 +43,14 @@ Soy un apasionado **Maestro en Artes Visuales (M.A.V.), Pedagogo y Tecnólogo** 
 
 ## 📫 How to reach me / Cómo Contactarme
 
-*   **LinkedIn:** [Tu Link de LinkedIn - ¡Asegúrate de que esté actualizado!]
-*   **Email:** [Tu Correo Electrónico Profesional]
-*   **WhatsApp:** [+57] 319 7919742
-*   _(Opcional: Si tienes un sitio web para _-IR-_ Productions, aunque sea una landing básica)_ **Website:** [Link a tu Web]
+
+
+
+- **LinkedIn**: [linkedin.com/in/lukasmoyano](https://www.linkedin.com/in/lukasmoyano)
+- **GitHub**: [github.com/IR-Productions](https://github.com/LukasMoyano)
+- **Email**: [lukasmoyano@ir-productions.com](mailto:lukasmoyanomorales@gmail.com)
+* **WhatsApp:** [+57] 319 7919742
+
 
 ---
 
