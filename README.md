@@ -43,21 +43,10 @@ Soy un apasionado **Maestro en Artes Visuales (M.A.V.), Pedagogo y Tecnólogo** 
 
 ## 📫 How to reach me / Cómo Contactarme
 
-
-
-
 - **LinkedIn**: [linkedin.com/in/lukasmoyano](https://www.linkedin.com/in/lukasmoyano)
 - **GitHub**: [github.com/IR-Productions](https://github.com/LukasMoyano)
 - **Email**: [lukasmoyano@ir-productions.com](mailto:lukasmoyanomorales@gmail.com)
 * **WhatsApp:** [+57] 319 7919742
-
-
----
-
-## 😄 Pronouns / Pronombres
-
-*   **English:** He/Him
-*   **Español:** Él
 
 ---
 
@@ -67,8 +56,3 @@ Soy un apasionado **Maestro en Artes Visuales (M.A.V.), Pedagogo y Tecnólogo** 
 *   **Español:** Creo que la tecnología más poderosa es aquella que se fusiona armoniosamente con la creatividad humana y la sabiduría natural, ¡a menudo inspirada en el redescubrimiento del conocimiento ancestral y aplicándolo con una lente artística y moderna! 🎨🤖🌿
 
 ---
-
-<!---
-LukasMoyano/LukasMoyano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
