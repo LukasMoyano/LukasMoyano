@@ -12,7 +12,7 @@
 
 ## 🏴‍☠️ About Me / Sobre Mí
 
-**[EN]** I build independent, highly scalable, and secure technological infrastructures for B2B enterprises and B2G institutions. My mission is to eliminate the dependency on expensive SaaS models by implementing **Local AI (On-Premise), High-Performance Computing (HPC), and Web3/Blockchain ecosystems**. As the founder of ** _-IR-_ Productions**, I connect complex engineering with financial strategy (OPEX reduction) and data sovereignty.
+**[EN]** I build independent, highly scalable, and secure technological infrastructures for B2B enterprises and B2G institutions. My mission is to eliminate the dependency on expensive SaaS models by implementing **Local AI (On-Premise), High-Performance Computing (HPC), and Web3/Blockchain ecosystems**. As the founder of ** _ _-IR-_ _ Productions**, I connect complex engineering with financial strategy (OPEX reduction) and data sovereignty.
 
 **[ES]** Construyo infraestructuras tecnológicas independientes, seguras y altamente escalables para empresas (B2B) e instituciones (B2G). Mi misión es eliminar la dependencia de costosos modelos SaaS mediante la implementación de **IA Local (On-Premise), Computación de Alto Desempeño (HPC) y ecosistemas Web3/Blockchain**. Como fundador de **_-IR-_ Productions**, conecto la ingeniería compleja con la estrategia financiera (reducción de OPEX) y la soberanía de los datos.
 
