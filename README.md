@@ -1,58 +1,58 @@
-# 👋 Hi, I’m @MasterLukasMoyano
+    <div align="center">
+      <h1>⚡ Lukas Moyano Morales</h1>
+      <h3>Strategist in Tech Sovereignty | Full-Stack & Web3 Developer | B2B & B2G Solutions</h3>
+      <p><i>"Technology should be an asset you own, not a rent you pay."</i></p>
+      
+      [![Website](https://img.shields.io/badge/Web-MasterLukasMoyano.Com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://masterlukasmoyano.com)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukasmoyano)
+      [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/573197919742)
+    </div>
+    
+    ---
+    
+    ## 🏴‍☠️ About Me / Sobre Mí
+    
+    **[EN]** I build independent, highly scalable, and secure technological infrastructures for B2B enterprises and B2G institutions. My mission is to eliminate the dependency on expensive SaaS models by
+  implementing **Local AI (On-Premise), High-Performance Computing (HPC), and Web3/Blockchain ecosystems**. As the founder of **_-IR-_ Productions**, I connect complex engineering with financial strategy
+  (OPEX reduction) and data sovereignty.
+    
+    **[ES]** Construyo infraestructuras tecnológicas independientes, seguras y altamente escalables para empresas (B2B) e instituciones (B2G). Mi misión es eliminar la dependencia de costosos modelos SaaS
+  mediante la implementación de **IA Local (On-Premise), Computación de Alto Desempeño (HPC) y ecosistemas Web3/Blockchain**. Como fundador de **_-IR-_ Productions**, conecto la ingeniería compleja con la
+  estrategia financiera (reducción de OPEX) y la soberanía de los datos.
+    
+    ---
+    
+    ## 🛠️ Tech Stack & Arsenal
 
+    * 🖥️ **Sovereign Infra & HPC:** Linux (Debian/Ubuntu), Proxmox, Self-Hosting, AMD Instinct/ROCm, Mesh VPNs.
+    * 🧠 **Backend & AI:** Python, Django, Flask, TensorFlow, PyTorch, Hugging Face, Local LLMs (Llama/Gemma).
+    * ⚛️ **Frontend & Web:** React, TypeScript, Tailwind CSS, Node.js, Vite, Shadcn/UI.
+    * ⛓️ **Web3 & IoT:** Solidity, Smart Contracts, Ethereum, ESP32, C++, Sensor Networks.
 
+    ---
 
-I'm a passionate **Visual Artist (M.A.V.), Pedagogue, and Technologist** based in Fusagasugá, Cundinamarca, Colombia 🇨🇴. Founder of **_-IR-_ Productions**, where we craft **Integral Digital Solutions** by uniquely fusing **Art 🎨, Science 🔬 (Pedagogy & Research), and Technology 💻 (IoT, AI, HPC, Open Source)**. My mission is to drive positive, sustainable transformation, cierre la brecha digital and democratize access to knowledge and cutting-edge tools, with a special focus on rural development and empowering organizations.
+    ## 🚀 What I'm Building / Proyectos Actuales
 
----
+    🌱 **Cultiva Tech ColombIA (AgriTech - TRL6)**
+    * **[EN]** An agricultural ecosystem integrating IoT (ESP32) and Blockchain (Smart Contracts) to ensure immutable environmental auditing and data integrity for farmers and government programs.
+    * **[ES]** Un ecosistema agrícola que integra IoT (ESP32) y Blockchain (Contratos Inteligentes) para garantizar la auditoría inmutable de datos ambientales en el campo y programas gubernamentales.
 
-Soy un apasionado **Maestro en Artes Visuales (M.A.V.), Pedagogo y Tecnólogo** radicado en Fusagasugá, Cundinamarca, Colombia 🇨🇴. Fundador de **_-IR-_ Productions**, donde creamos **Soluciones Digitales Integrales** fusionando de manera única **Arte 🎨, Ciencia 🔬 (Pedagogía e Investigación) y Tecnología 💻 (IoT, IA, HPC, Open Source)**. Mi misión es impulsar la transformación positiva y sostenible, cerrar la brecha digital y democratizar el acceso al conocimiento y a herramientas de vanguardia, con un enfoque especial en el desarrollo rural y el empoderamiento de organizaciones.
+    💻 **On-Premise AI & HPC Consulting**
+    * **[EN]** Advising B2B clients as a "personal shopper" for HPC hardware, deploying private local AI models to protect corporate secrets and eliminate cloud costs.
+    * **[ES]** Asesorando clientes B2B para ensamblar hardware HPC y desplegar modelos de IA privados y locales, protegiendo el secreto empresarial y eliminando costos de nube.
 
----
+    ---
 
-## 👀 I’m interested in / Mis Intereses
+    ## 🏔️ Philosophy: Cyberpunk Andino & Tech Sovereignty
 
-*   **English:** The intersection of Art, Pedagogy, and cutting-edge Technology (IoT, AI, HPC, Edge Computing). Developing innovative solutions for Agro-Tech, sustainable rural development, and high-performance computing needs. Exploring Open Source ecosystems (especially AMD/ARM based), upcycling e-waste for tech solutions, and leveraging AI for social impact. Building meaningful collaborations that foster innovation and shared prosperity.
-*   **Español:** La intersección del Arte, la Pedagogía y la Tecnología de vanguardia (IoT, IA, HPC, Edge Computing). Desarrollar soluciones innovadoras para Agro-Tecnología, desarrollo rural sostenible y necesidades de cómputo de alto rendimiento. Explorar ecosistemas Open Source (especialmente basados en AMD/ARM), el supra-reciclaje (upcycling) de e-waste para soluciones tecnológicas y el uso de la IA para impacto social. Construir colaboraciones significativas que fomenten la innovación y la prosperidad compartida.
+    * **Own Your Data:** We don't evangelize for big-tech subscriptions. We build systems where organizations are the sole owners of their infrastructure and data.
+    * **High Tech, High Altitude, Real Life:** Fusing bleeding-edge technology (Blockchain, Edge AI) with rural and local realities to solve actual problems, not just create silicon-valley hype. 
+    * **Linux First:** A profound commitment to Open Source, technological independence, and robust, community-driven software.
 
----
+    ---
 
-## 🌱 I’m currently learning / Actualmente Aprendiendo
-
-*   **English:** Continuously deepening my expertise in advanced AI/ML frameworks (PyTorch, TensorFlow), optimizing embedded systems for IoT (RISC-V, RTOS), advanced HPC architectures (AMD Instinct, ROCm), and sustainable tech design principles. Always exploring new pedagogical approaches for effective tech adoption.
-*   **Español:** Continuamente profundizando mi experticia en frameworks avanzados de IA/ML (PyTorch, TensorFlow), optimización de sistemas embebidos para IoT (RISC-V, RTOS), arquitecturas HPC avanzadas (AMD Instinct, ROCm) y principios de diseño tecnológico sostenible. Siempre explorando nuevos enfoques pedagógicos para la adopción efectiva de la tecnología.
-
----
-
-## 💞️ I’m looking to collaborate on / Busco Colaborar en
-
-*   **English:**
-    *   🚀 Projects that leverage **technology for social and rural development**, особенно in Agro-Tech and digital literacy.
-    *   💡 Initiatives requiring **custom High-Performance Computing (HPC/IA) solutions**, especially those benefiting from AMD/ARM architectures and Open Source.
-    *   🛰️ Development of **innovative IoT solutions** like "CultivaTech ColombIA" for precision agriculture and apiculture.
-    *   🤝 Strategic alliances with **governmental entities, NGOs, academic institutions, and private companies** misión-aligned to co-create impactful programs and solutions.
-    *   ♻️ Projects involving **creative upcycling of e-waste** into functional tech.
-*   **Español:**
-    *   🚀 Proyectos que utilicen **tecnología para el desarrollo social y rural**, especialmente en Agro-Tecnología y alfabetización digital.
-    *   💡 Iniciativas que requieran **soluciones personalizadas de Cómputo de Alto Rendimiento (HPC/IA)**, particularmente aquellas que se beneficien de arquitecturas AMD/ARM y Open Source.
-    *   🛰️ Desarrollo de **soluciones IoT innovadoras** como "CultivaTech ColombIA" para agricultura de precisión y apicultura.
-    *   🤝 Alianzas estratégicas con **entidades gubernamentales, ONGs, instituciones académicas y empresas privadas** alineadas con nuestra misión para co-crear programas y soluciones de impacto.
-    *   ♻️ Proyectos que involucren el **supra-reciclaje creativo de e-waste** en tecnología funcional.
-
----
-
-## 📫 How to reach me / Cómo Contactarme
-
-- **LinkedIn**: [linkedin.com/in/lukasmoyano](https://www.linkedin.com/in/lukasmoyano)
-- **GitHub**: [github.com/IR-Productions](https://github.com/LukasMoyano)
-- **Email**: [lukasmoyano@ir-productions.com](mailto:lukasmoyanomorales@gmail.com)
-* **WhatsApp:** [+57] 319 7919742
-
----
-
-## ⚡ Fun fact / Dato Curioso
-
-*   **English:** I believe the most powerful technology is the one that seamlessly blends with human creativity and natural wisdom, often inspired by rediscovering ancestral knowledge and applying it with a modern, artistic lens! 🎨🤖🌿
-*   **Español:** Creo que la tecnología más poderosa es aquella que se fusiona armoniosamente con la creatividad humana y la sabiduría natural, ¡a menudo inspirada en el redescubrimiento del conocimiento ancestral y aplicándolo con una lente artística y moderna! 🎨🤖🌿
-
----
+    <div align="center">
+      <h3>📫 Let's Build Something Sovereign / Construyamos algo Soberano</h3>
+      <p>If you're an enterprise looking to cut OPEX, or an institution seeking data integrity via Web3 & AI, let's talk.</p>
+      <p><b>Email:</b> <a href="mailto:managementandplanning@masterlukasmoyano.com">managementandplanning@masterlukasmoyano.com</a></p>
+    </div>
